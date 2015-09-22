@@ -1,0 +1,25 @@
+* {
+   font-size: 100%;
+}
+
+header {
+   text-align: center;
+   padding-bottom: 40px;
+   padding-top: 100px;
+}
+
+main {
+   text-align: center;
+}
+
+#tagline, #sub-tagline {
+   font-weight: 300;
+}
+
+#start-button {
+   text-transform: uppercase;
+}
+
+#cover-image {
+   width: 500px;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wedding-planner",
+  "version": "1.0.0",
+  "description": "Plan your wedding",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsanth/wedding-planner.git"
+  },
+  "author": "Santhosh Kumar Bala Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsanth/wedding-planner/issues"
+  },
+  "homepage": "https://github.com/bsanth/wedding-planner#readme"
+}
