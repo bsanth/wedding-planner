@@ -8,7 +8,7 @@ nav ul {
 }
 
 nav ul li .card {
-   max-width: 300px;
+   max-width: 250px;
    margin: 0 auto;
 }
 
@@ -19,13 +19,14 @@ nav ul li .card {
    border-bottom:1px solid #e5e5e5;
 }
 
-.sidebar {
+.sidebar, .main {
    height:auto;
    overflow: auto;
 }
 
 .main {
    text-align: center;
+   padding: 0px 200px;
 }
 
 .card-title {
@@ -33,5 +34,29 @@ nav ul li .card {
 }
 
 .content {
-   padding-top: 10px;
+   padding-top: 30px;
+}
+
+.tabs {
+   margin-bottom: 20px;
+}
+
+article {
+   text-align: left;
+}
+
+.hero {
+   margin-bottom: 10px;
+}
+
+.facilities {
+   margin-bottom: 10px;
+}
+
+.facilities button{
+   border-radius: 20px;
+}
+
+button {
+   outline: none;
 }
