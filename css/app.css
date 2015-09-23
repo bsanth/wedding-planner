@@ -61,15 +61,21 @@ article {
    margin-bottom: 20px;
 }
 
-.facilities button{
-   !border-radius: 20px;
+.search-tags {
+   text-align: left;
+   margin-bottom: 20px;
 }
 
-button {
-   outline: none;
-
+.search-tags button{
+   margin: 5px;
 }
 
 .top-form button, .top-form input {
    border-radius: 20px;
+}
+
+.result {
+   border-top: 1px solid #e5e5e5;
+   padding: 20px;
+   text-align: left;
 }
